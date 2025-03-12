@@ -13,4 +13,5 @@ PollPulse implements the Model-View-Controller (MVC) software design pattern.
     - Spring Boot DevTools: enhanced configurations
     - Spring Data JPA: database interaction
     - Spring Security: authentication and access-control
-    - PostgreSQL/H2 Drivers: database connectivity
+    - Spring Validation: data validation
+    - PostgreSQL Driver/H2 Database: database connectivity
