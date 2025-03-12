@@ -1,7 +1,7 @@
 # PollPulse
 ## Bachelor's Thesis Project
 
-PollPulse implements the Model-View-Controller (MVC) software design pattern with the Package by Feature architecture.
+PollPulse implements the Model-View-Controller (MVC) software design pattern.
 
 ### Tech Stack
 - Java build tools: Maven
